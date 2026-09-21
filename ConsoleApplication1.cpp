@@ -16,6 +16,9 @@ int sredina(int a, int b, int c) {
     if (c > a && c < b) {
         return c;
     }
+    if (c<a && c>b) {
+    return c;
+}
 }
 int main()
 {
