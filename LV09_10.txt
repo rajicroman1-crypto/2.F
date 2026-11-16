@@ -1,0 +1,16 @@
+1. Samo 58
+2. Bazni slucaj rekurzije
+3.Indeks
+
+C
+1. Iter- Svi n elementi kroz petlju 
+1. Re- Svi n elementi, po jedan u svakom pozivu
+
+2. Iter- 0(n)
+2. Re- 0(n)
+
+3. Iter- 0(1)
+3. Re- 0(n)
+
+4. Iter- Izvrsava se brzo i stabilno
+4. Re- 
